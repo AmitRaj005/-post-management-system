@@ -35,7 +35,7 @@ Want to run this project on your computer? Follow these steps.
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/AmitRaj005/-post-management-system.git
 ```
 
 ### 2. Open the project folder
