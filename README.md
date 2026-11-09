@@ -82,6 +82,20 @@ post-management-system/
 └── README.md
 ```
 
+## Project Screenshots
+
+### Dashboard
+![Dashboard](pics/01-dashbord.png)
+
+### Create Post
+![Create Post](pics/02-create-post.png)
+
+### Edit Post
+![Edit Post](pics/03-edit-post.png)
+
+### Delete Confirmation
+![Delete Confirmation](pics/04-delete%20confirmation.png)
+
 ## What I Learned
 
 While working on this project, I got practical experience with:
